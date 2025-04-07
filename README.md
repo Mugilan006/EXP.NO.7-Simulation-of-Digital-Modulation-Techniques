@@ -23,7 +23,7 @@ Perform modulation using the respective technique.
 Plot the message and modulated signals.
 
 # PROGRAM
-
+``` python
 #Amplitude Shift Keying (ASK)
 import numpy as np
 import matplotlib.pyplot as plt
@@ -117,7 +117,7 @@ plt.xlabel('Time (s)')
 plt.ylabel('Amplitude')
 plt.tight_layout()
 plt.show()
-
+```
 # OUTPUT
 ![download (1)](https://github.com/user-attachments/assets/4937db86-a67a-44fc-b29b-a14b92001f20)
 
