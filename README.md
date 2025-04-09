@@ -119,7 +119,14 @@ plt.tight_layout()
 plt.show()
 ```
 # OUTPUT
-![download (1)](https://github.com/user-attachments/assets/4937db86-a67a-44fc-b29b-a14b92001f20)
+1.ASK
+![image](https://github.com/user-attachments/assets/6d1c3d25-dd68-4389-a914-099e398f974c)
+2.FSK
+![image](https://github.com/user-attachments/assets/ef241d87-646e-426f-b07b-2110dd69748e)
+3.PSK
+![image](https://github.com/user-attachments/assets/03159736-8ce3-4a8d-9440-6a9f09817b30)
+
+
 
  
 # RESULT / CONCLUSIONS
